@@ -1,7 +1,7 @@
 # pweb_2020.2_JoaoPedroSouza
  ## Repositório PWeb 2020.2
 
-![alt text][limage.png]
+![Logo Ufersa][Image.png]
 
  Matéria: Progamação Web
 
